@@ -1,0 +1,6 @@
+name.txt	shruti
+Hostel Name:	gram
+Email:	s@.com
+name.txt	shruti
+Hostel Name:	gram
+Email:	sh@gmail.com
